@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv source-info-name="http://xmltv.net" generator-info-url="http://www.xmltv.org/">
+        <channel id="9.yourtv.com.au">
+                <display-name>Boxing</display-name>
+                <lcn>9</lcn>
+                <icon src="https://cdn-icons.flaticon.com/png/512/1804/premium/1804582.png?token=exp=1633785288~hmac=1b8e5fc60bc3ee0ffe59d24bbe59d2d0" />
+        </channel>
+
+        <programme start="20211008230000 +1100" stop="20211011010500 +1100" channel="9.yourtv.com.au">
+                <title>Boxing</title>
+                <desc>Boxing</desc>
+                <category>Drama</category>
+                <category>Cinema movie</category>
+                <previously-shown />
+                <video>
+                        <quality>SDTV</quality>
+                </video>
+                <rating>
+                        <value>M</value>
+                </rating>
+        </programme>
+		
+</tv>		
